@@ -1,0 +1,11 @@
+.letters {
+  border: 1px solid black;
+  background: #2994B2;
+  color: white;
+  font-family: serif;
+  padding: 7px;
+}
+
+.start table {
+  margin: 0 auto;
+}
